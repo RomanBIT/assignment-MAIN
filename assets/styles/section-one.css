@@ -20,7 +20,7 @@
 .section-one-block {
     max-width: 170px;
 }
-.section-one-block div {
+.section-one-block figcaption {
     text-align: center;
     letter-spacing: 1px;
 }
